@@ -1,0 +1,20 @@
+RB Mod License [RBM License]
+=========================================================================================
+Copyright (c) [year] [copyright holder]
+
+You do not have permission to modify this modification.
+
+What you CAN'T do with this modification
+-------------------------------------------------------------------------------------------------------------------
+- You cannot modify this modification.
+- You cannot redistribute this modification without credit.
+- You cannot publish the source code of this modification without permission.
+
+What you CAN do with this modification
+--------------------------------------------------------------------------------------------------------------------
+- You are allowed to include this modification in creations such as modpacks.
+- You are allowed to include this modification in video content.
+
+MINECRAFT IS A GAME CREATED AND TRADEMARKED BY MICROSOFT AND MOJANG STUDIOS.
+THIS IS COMMUNITY-CREATED CONTENT FOR MINECRAFT, THIS CONTENT IS NOT OWNED BY
+MICROSOFT OR MOJANG STUDIOS.
