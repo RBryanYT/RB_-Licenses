@@ -1,0 +1,21 @@
+RB Pack License [RBP License]
+=========================================================================================
+Copyright (c) [year] [copyright holder]
+
+Permission is hereby granted, that you are allowed to modify this datapack/resourcepack. (with credit to creator)
+
+What you CAN'T do with this datapack/resourcepack
+----------------------------------------------------------------------------------------------------------------------------------------------------
+- You cannot redistribute this datapack/resourcepack without any credit/modifications.
+- You cannot modify and distribute this datapack/resourcepack without credit to the original creator.
+- You cannot steal icons/images attached to this datapack/resourcepack.
+
+What you CAN do with this datapack/resourcepack
+----------------------------------------------------------------------------------------------------------------------------------------------------
+- You are allowed to modify and redistribute this datapack/resourcepack with credit to the creator.
+- You are allowed to include this datapack/resourcepack in your own datapack/resourcepack/mod
+  with credit to the original creator.
+
+MINECRAFT IS A GAME CREATED AND TRADEMARKED BY MICROSOFT AND MOJANG STUDIOS.
+THIS IS COMMUNITY-CREATED CONTENT FOR MINECRAFT, THIS CONTENT IS NOT OWNED BY
+MICROSOFT OR MOJANG STUDIOS.
