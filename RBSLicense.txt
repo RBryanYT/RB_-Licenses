@@ -1,0 +1,18 @@
+RB Shader License [RBS License]
+=========================================================================================
+Copyright (c) [year] [copyright holder]
+
+Permission is hereby granted, that you are allowed to modify this shaderpack. (with credit to creator)
+
+What you CAN'T do with this shaderpack
+----------------------------------------------------------------------------------------------------------------------------------------------------
+- You cannot redistribute this shaderpack without any credit/modifications.
+
+What you CAN do with this shaderpack
+----------------------------------------------------------------------------------------------------------------------------------------------------
+- You are allowed to modify and redistribute this shaderpack with credit to the creator.
+- You are allowed to include this shaderpack in your modpacks.
+
+MINECRAFT IS A GAME CREATED AND TRADEMARKED BY MICROSOFT AND MOJANG STUDIOS.
+THIS IS COMMUNITY-CREATED CONTENT FOR MINECRAFT, THIS CONTENT IS NOT OWNED BY
+MICROSOFT OR MOJANG STUDIOS.
