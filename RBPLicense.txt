@@ -1,6 +1,6 @@
 RB Pack License [RBP License]
 =========================================================================================
-Copyright (c) [year] [copyright holder]
+Copyright (c) 2024 RB Ryan
 
 Permission is hereby granted, that you are allowed to modify this datapack/resourcepack. (with credit to creator)
 

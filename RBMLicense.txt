@@ -1,6 +1,6 @@
 RB Mod License [RBM License]
 =========================================================================================
-Copyright (c) [year] [copyright holder]
+Copyright (c) 2024 RB Ryan
 
 You do not have permission to modify this modification.
 
